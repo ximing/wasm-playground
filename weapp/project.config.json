@@ -39,7 +39,7 @@
     "showES6CompileOption": false
   },
   "compileType": "miniprogram",
-  "libVersion": "2.21.4",
+  "libVersion": "2.14.1",
   "appid": "wx77af438b3505c00e",
   "projectname": "weapp",
   "debugOptions": {
